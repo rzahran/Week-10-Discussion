@@ -1,5 +1,4 @@
-print ("Hello, I will be helping you calculate the cost of installing fiber optic cable for your company.")
-print ("What is the name of your company?")
+print ("Hello, I will be helping you calculate the cost of installing fiber optic cable for your company. What is the name of your company?")
 company_name=(input())
 print ("What is the number of feet of fiber optic to be installed for your company?")
 feet_of_cable = input()
